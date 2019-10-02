@@ -1,0 +1,12 @@
+/Users/admin/Desktop/ExpertSystem/bin/Release/ExpertSystem.exe.config
+/Users/admin/Desktop/ExpertSystem/bin/Release/ExpertSystem.exe
+/Users/admin/Desktop/ExpertSystem/bin/Release/ExpertSystem.pdb
+/Users/admin/Desktop/ExpertSystem/obj/Release/ExpertSystem.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/ExpertSystem/obj/Release/ExpertSystem.exe
+/Users/admin/Desktop/ExpertSystem/obj/Release/ExpertSystem.pdb
+/Users/nsharova/Desktop/ExpertSystem/bin/Release/ExpertSystem.exe.config
+/Users/nsharova/Desktop/ExpertSystem/bin/Release/ExpertSystem.exe
+/Users/nsharova/Desktop/ExpertSystem/bin/Release/ExpertSystem.pdb
+/Users/nsharova/Desktop/ExpertSystem/obj/Release/ExpertSystem.csproj.CoreCompileInputs.cache
+/Users/nsharova/Desktop/ExpertSystem/obj/Release/ExpertSystem.exe
+/Users/nsharova/Desktop/ExpertSystem/obj/Release/ExpertSystem.pdb
